@@ -1,5 +1,5 @@
 # 100_days_projects
-100 days of Python code based on the Python bootcamp: 100 Days of Code. 
+100 days of Python code based on the Python bootcamp: 100 Days of Code by Dr. Angela Yu. 
 
 The projects in this repository are my programs based on the bootcamp's daily topic challenges.
 
